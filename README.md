@@ -1,3 +1,2 @@
-BAEKJOON Algorithm[page_link](https://www.acmicpc.net/)
-
-self-study
+### BAEKJOON (https://www.acmicpc.net)
+Algorithm self-study
